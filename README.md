@@ -2,6 +2,8 @@
 
 感觉论坛 http://forum.cocos.com/t/topic/40605 这位大哥提供的美术资源。
 
+使用 cocos creator 1.8 制作
+
 黄金矿工小游戏 主要是在手机上横屏玩的 所以竖屏玩物品会乱的。
 
 本人初次接触cocos creator 第一次制作出能玩的游戏 有点小激动。
