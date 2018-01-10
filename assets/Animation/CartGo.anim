@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CartGo",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1a16e055-f8f4-442a-aaa3-5a51f3d8d1e3"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "46ee630a-99e8-4585-a77a-5571349af220"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "d8a8e4ad-0bfe-46c5-a9c4-acddd89ab7b1"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "1a939767-376e-44e6-9ee7-366401c15e30"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "78dd0d8f-7c0f-48a6-b0c5-f5c383eb2c17"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

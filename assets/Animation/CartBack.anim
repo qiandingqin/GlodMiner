@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CartBack",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7e389e5b-2866-48e5-a987-ebcfcfdc39e0"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "838cf273-8a0c-4ac5-9e94-3e20d306a291"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "71f096d7-7326-4400-9dc8-152a19e110de"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "c6bb17c9-3f21-47a4-8688-dee6948516d9"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "d148b836-04d9-4688-842a-7d2a9182826a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
