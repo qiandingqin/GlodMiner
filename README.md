@@ -1,6 +1,6 @@
 # 黄金矿工
 
-感觉论坛 http://forum.cocos.com/t/topic/40605 这位大哥提供的美术资源。
+感谢论坛 http://forum.cocos.com/t/topic/40605 这位大哥提供的美术资源。
 
 使用 cocos creator 1.8 制作
 
